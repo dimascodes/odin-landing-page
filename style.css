@@ -1,0 +1,209 @@
+body {
+    font-family: "prompt";
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.bodyFirst {
+    display: flex;
+    justify-content: space-around;
+    background: #1F2937;
+    padding: 18px 180px 180px 180px;
+}
+
+#buttonSatu {
+    cursor: pointer;
+    color: #F9FAF8;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    background: #3882F6;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.left {
+    margin-right: 18px;
+    padding-left: 18px;
+    align-self: flex-start;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.satu {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.right {
+    justify-content: center;
+    align-items: center;
+    padding-right: 100px;
+    padding-top: 18px;
+    
+}
+
+img {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.logo, ul {
+    margin-top: 18px;
+}
+
+ul {
+    gap: 18px;
+    display: flex;
+    list-style-type: none;
+}
+
+a {
+    font-size: 18px;
+    color: #E6E7EB;
+    text-decoration: none;
+}
+
+.bodySecond {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    padding: 50px 18px 100px 18px;
+
+}
+.card {
+    display: flex;
+    align-content: center;
+    gap: 32px;
+}
+
+.one, .two, .three, .four, .h1 {
+    color: #1F2937;
+}
+
+.one, .two, .three, .four {
+    border: #1F2937;
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 36px;
+    padding-bottom: 28px;
+
+}
+
+.bodythird {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerTiga {
+    padding: 40px 20px 20px 20px;
+}
+
+.PQuote {
+    font-style: italic;
+}
+
+.PWriter {
+    font-family: "prompt bold";
+}
+
+.writer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bodyFour {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 48px 48px 48px;
+    margin: 10px 10px;
+}
+
+.containerEmpat {
+    background-color: #3882F6;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 48px 20px 48px;
+}
+
+.text {
+    margin: 2px 100px 2px 100px;
+    color: #E5E7EB;
+}
+
+.textBold {
+    font-weight: 600;
+}
+
+.textThin {
+    font-weight: 300;
+}
+
+#buttonDua {
+    cursor: pointer;
+    border-width: 1px;
+    border-color: #E6E7EB;
+    border-radius: 10px;
+    background: none;
+    color: #E5E7EB;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding-left: 32px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 32px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.footerText {
+    padding: 19px 10px 19px 10px;
+    font-weight: 100;
+    color: #F9FAF8;
+}
+
+
+
+
