@@ -1,0 +1,1 @@
+hai ini adalah hasil latihan dari odin projek yaitu odin landing page flex.
